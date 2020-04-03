@@ -1,0 +1,16 @@
+/* 
+  Strings.strings
+  EnglishWords
+
+  Created by Вильян Яумбаев on 03/04/2020.
+  Copyright © 2020 Вильян Яумбаев. All rights reserved.
+*/
+
+"Word description: " = "Описание: ";
+"Meaning" = "Значение";
+"Meanings" = "Значения";
+"Words search" = "Поиск слов";
+"Start typing symbols..." = "Начните вводить символы...";
+"Examples:" = "Примеры:";
+"Difficulty:" = "Сложность:";
+"Meanings with similar translation:" = "Значения с похожим переводом:";

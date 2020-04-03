@@ -1,0 +1,16 @@
+/* 
+  Strings.strings
+  EnglishWords
+
+  Created by Вильян Яумбаев on 03/04/2020.
+  Copyright © 2020 Вильян Яумбаев. All rights reserved.
+*/
+
+"Word description: " = "Description: ";
+"Meaning" = "Meaning";
+"Meanings" = "Meanings";
+"Words search" = "Words search";
+"Start typing symbols..." = "Start typing symbols...";
+"Examples:" = "Examples:";
+"Difficulty:" = "Difficulty:";
+"Meanings with similar translation:" = "Meanings with similar translation:";
