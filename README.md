@@ -9,3 +9,6 @@ Used storybords
 
 To launch project just run `EnglishWords.xcodeproj`. 
 Cocoapods didn't used.
+
+## Interface
+![Interface](https://github.com/Willianlike/EnglishWords/blob/master/EnglishWords.gif)
